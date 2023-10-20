@@ -1,7 +1,7 @@
 fafawfawfsdfsa
 alailaial1000
 sudo apt-get remove docker docker-engine docker.io containerd runc
-
+ck
 sudo apt-get update
 
 sudo apt-get install \

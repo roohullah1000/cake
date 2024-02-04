@@ -1,4 +1,4 @@
-fafawfawfsdff
+fafawfawfsdfff
 alailaial1000ddی
 sudo apt-get remove docker docker-engine docker.io containerd runc
 ckck

@@ -1,5 +1,5 @@
 fafawfawfsdfff
-alailaial1000ddی
+alailaial1000ddی44
 sudo apt-get remove docker docker-engine docker.io containerd runc
 ckck
 sudo apt-get update
